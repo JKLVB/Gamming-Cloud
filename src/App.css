@@ -1,0 +1,91 @@
+body {
+  padding: 20px;
+}
+
+.nome{
+  width: 55%;
+  margin-top: 2%;
+  margin-left: 20%;
+  text-align: left;
+}
+
+.nomeInput{
+  text-align: left;
+  height: 30px;
+  width: 35%;
+  margin-top: -1%;
+  border: 1px solid;
+  margin-left: 0%;
+  border-radius: 8px;
+}
+
+.cpf{
+  width: 55%;
+  margin-top: 3%;
+  margin-left: 20%;
+  text-align: left;
+}
+
+.cpfInput{
+  text-align: left;
+  height: 30px;
+  width: 35%;
+  margin-top: -1%;
+  border: 1px solid;
+  margin-left: 0%;
+  border-radius: 8px;
+}
+
+.data{
+  width: 55%;
+  margin-top: 3%;
+  margin-left: 20%;
+  text-align: left;
+}
+
+.dataInput{
+  text-align: left;
+  height: 30px;
+  width: 35%;
+  margin-top: -1%;
+  border: 1px solid;
+  margin-left: 0%;
+  border-radius: 8px;
+}
+
+.senha{
+  width: 55%;
+  margin-top: 3%;
+  margin-left: 20%;
+  text-align: left;
+}
+
+.senhaInput{
+  text-align: left;
+  height: 30px;
+  width: 30%;
+  margin-top: -1%;
+  border: 1px solid;
+  margin-right: 5%;
+  border-radius: 8px;
+}
+
+.exibir{
+  text-align: center;
+  width: 60px;
+  height: 34px;
+  border: 1px solid;
+  border-radius: 8px;
+  margin-top: -2.5%;
+  margin-left: 30%;
+}
+
+.salvar{
+  text-align: center;
+  height: 34px;
+  width: 60px;
+  margin-top: 3%;
+  margin-right: 30.8%;
+  border: 1px solid;
+  border-radius: 8px;
+}
